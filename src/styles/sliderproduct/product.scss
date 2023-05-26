@@ -1,0 +1,17 @@
+.product{
+  &__img{
+    width: 153px;
+    height: 235px;
+    border-radius: 10px;
+  }
+  &__title{
+    font-weight: 500;
+    font-size: 15px;
+    color: #D9D7E0;
+  }
+  &__desc{
+    font-weight: 400;
+    font-size: 12px;
+    color: #EA003D;
+  }
+}
